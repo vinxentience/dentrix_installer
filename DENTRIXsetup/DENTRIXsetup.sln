@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DENTRIXsetup", "DENTRIXsetup\DENTRIXsetup.vdproj", "{394BB4C2-AC68-4100-AF4A-D1CF6FDD7AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394BB4C2-AC68-4100-AF4A-D1CF6FDD7AAA}.Debug|Default.ActiveCfg = Debug
+		{394BB4C2-AC68-4100-AF4A-D1CF6FDD7AAA}.Debug|Default.Build.0 = Debug
+		{394BB4C2-AC68-4100-AF4A-D1CF6FDD7AAA}.Release|Default.ActiveCfg = Release
+		{394BB4C2-AC68-4100-AF4A-D1CF6FDD7AAA}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
